@@ -5,6 +5,10 @@
 }
 
 .item{
-    color: whitesmoke;
+    color: gold;
     text-decoration-line: none;
+}
+
+.item.active{
+    color:gold;
 }
