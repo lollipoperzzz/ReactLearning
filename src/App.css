@@ -8,35 +8,3 @@
   grid-template-columns: 2fr 10fr;
   grid-gap: 10px;
 }
-
-.header{
-grid-area: h;
-  background-color: darkslateblue;
-}
-
-.nav{
-grid-area: n;
-  background-color: darkslateblue;
-  padding: 1em;
-}
-
-a{
-  color: whitesmoke;
-  text-decoration-line: none;
-}
-
-.content{
-  grid-area: c;
-  border: 1px black;
-}
-
-.App-logo{
-  height: 60px;
-  width: 60px;
-}
-
-.upper-image{
-  height: 140px;
-  width: 100%;
-  /*margin: 0 auto;*/
-}

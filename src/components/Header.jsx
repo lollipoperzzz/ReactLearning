@@ -1,10 +1,10 @@
-import './../App.css'
+import classes from './Header.module.css'
 
 function Header(){
     return(
-        <div className='header'>
-            <img className='App-logo' src="https://cryptologos.cc/logos/aave-aave-logo.png" alt="no-logo"/>
-        </div>
+        <header className={classes.header}>
+            <img className={classes.App_logo} src="https://cryptologos.cc/logos/aave-aave-logo.png" alt="no-logo"/>
+        </header>
     );
 }
 

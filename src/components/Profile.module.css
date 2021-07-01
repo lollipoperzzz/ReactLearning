@@ -1,0 +1,14 @@
+.content{
+    grid-area: c;
+    border: 1px black;
+}
+
+.main_img{
+    height: 140px;
+    width: 100%;
+    /*margin: 0 auto;*/
+}
+
+.item{
+    color:black;
+}
