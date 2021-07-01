@@ -4,11 +4,11 @@
     padding: 1em;
 }
 
-.item{
+.item a{
     color: gold;
     text-decoration-line: none;
 }
 
-.item.active{
-    color:gold;
+.item a.activeLink{
+    color: red;
 }
